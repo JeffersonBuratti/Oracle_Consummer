@@ -1,0 +1,6 @@
+@Oracle_Consummer_HostAddress = http://localhost:5199
+
+GET {{Oracle_Consummer_HostAddress}}/swagger/
+Accept: application/json
+
+###
